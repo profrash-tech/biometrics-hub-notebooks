@@ -8,7 +8,7 @@ Hello! I am Salihu Abdulrasheed Itopa. This repository holds my work for the cou
 | 1 | Python and Data Analysis Foundations | Submitted |
 | 2 | Exploratory Data Analysis and Statistical Reasoning | Submitted |
 | 3 | Feature Engineering and Statistical Modelling | Submitted |
-| 4 | Supervised ML: Predicting Systolic Blood Pressure | Not started |
+| 4 | Supervised ML: Predicting Systolic Blood Pressure | submitted |
 | 5 | Supervised ML: Classifying Ten-Year CHD | Not started |
 ## About the data
 The notebooks use a teaching dataset (`framingham.csv`) that is not included in 
